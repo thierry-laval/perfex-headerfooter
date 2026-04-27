@@ -36,9 +36,9 @@ Ce module pour Perfex CRM est un outil puissant permettant d'injecter du code Ja
 #### 🔧 Installation
 
 1. Téléchargez le dossier dans le répertoire `/modules/perfex_headerfooter/` de votre installation.
-2. Allez dans **Configuration → Modules** dans votre interface Perfex.
+2. Allez dans **Paramètres de la colonne de gauche → Modules** dans votre interface Perfex.
 3. Activez le module **"Perfex Header & Footer"**.
-4. Rendez-vous dans l'onglet **Configuration → Réglages → Code personnalisé**.
+4. Rendez-vous dans **Paramètres en haut à droite → Other → Code personnalisé**.
 
 ***
 
