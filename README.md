@@ -44,17 +44,15 @@ Ce module pour Perfex CRM est un outil puissant permettant d'injecter du code Ja
 
 ### 🚀 Mise en route
 
-**Interface Admin**
+#### Interface Admin
 
 * Intégration de scripts JS, styles CSS ou balises HTML pour des besoins internes  
 * Application immédiate après enregistrement  
 
-**Espace Client**
+#### Espace Client
 
 * Paramétrage équivalent mais isolé de l’Admin  
 * Adapté à la personnalisation visuelle et à l’intégration d’outils de suivi  
-
----
 
 ### 💡 Cas d’usage
 
@@ -90,9 +88,7 @@ gtag('config', 'GA_MEASUREMENT_ID');
 | :-------------: |:--------------:    |
 | PHP (CodeIgniter) | Visual Studio Code |
 | HTML5 / CSS3    | Git / GitHub       |
-| Javascript (jQuery) | Perfex CRM         |
-
-***
+| Javascript (jQuery) | Perfex CRM |
 
 ### 📝 Documentation & Aide
 
@@ -106,8 +102,8 @@ gtag('config', 'GA_MEASUREMENT_ID');
 
 ## 📝  License
 
-*   Consultez **FEATURES.md** pour le guide complet.
-*   Consultez **EXAMPLES.php** pour des exemples de code.
+* Consultez **FEATURES.md** pour le guide complet.
+* Consultez **EXAMPLES.php** pour des exemples de code.
 
 Ce projet est sous licence [MIT](LICENCE).
 
