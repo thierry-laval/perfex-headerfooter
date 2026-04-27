@@ -47,6 +47,9 @@ register_language_files(PERFEX_HEADERFOOTER, [PERFEX_HEADERFOOTER]);
 /**
  * Initialisation des menus du module dans la section "Configuration".
  * S'exécute sur le hook 'admin_init'.
+/**
+ * Initialisation des menus du module dans la section "Configuration".
+ * S'exécute sur le hook 'admin_init'.
  * @return null
  */
 function perfex_headerfooter_setup_init_menu_items()
